@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: taskmanager
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: csilva
+Implementation-Vendor-Id: br.com.gmmti.taskmanager
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/task-manager
+Created-By: Maven Integration for Eclipse
+
